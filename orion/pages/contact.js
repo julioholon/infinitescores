@@ -3,7 +3,7 @@ orion.pages.addTemplate({
     name: 'contact',
     description: 'Simple template'
 }, {
-    content: orion.attribute('froala', {
+    content: orion.attribute('summernote', {
         label: 'Content'
     }),
     image: orion.attribute('image', {
