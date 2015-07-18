@@ -9,7 +9,6 @@ orionjs:core
 twbs:bootstrap
 fortawesome:fontawesome
 orionjs:bootstrap
-orionjs:froala
 orionjs:file-attribute
 orionjs:pages
 orionjs:summernote

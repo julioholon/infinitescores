@@ -27,7 +27,6 @@ email@1.0.6
 facebook@1.2.0
 fastclick@1.0.3
 fortawesome:fontawesome@4.3.0
-froala:editor@1.2.8
 geojson-utils@1.0.3
 google@1.1.5
 handlebars@1.0.3
@@ -80,11 +79,10 @@ orionjs:bootstrap@1.2.1
 orionjs:collections@1.2.0
 orionjs:config@1.2.0
 orionjs:core@1.2.0
-orionjs:dictionary@1.2.0
+orionjs:dictionary@1.2.1
 orionjs:file-attribute@1.2.0
 orionjs:filesystem@1.2.0
-orionjs:froala@1.2.0
-orionjs:image-attribute@1.1.4
+orionjs:image-attribute@1.2.0
 orionjs:lang-en@1.2.0
 orionjs:pages@1.2.1
 orionjs:relationships@1.2.0
