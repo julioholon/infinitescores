@@ -4,7 +4,6 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-meteor-platform
 orionjs:core
 twbs:bootstrap
 fortawesome:fontawesome
@@ -26,7 +25,21 @@ dburles:collection-helpers
 orionjs:lang-en
 nicolaslopezj:orion-ga
 accounts-facebook
-accounts-ui
-mrt:accounts-ui-bootstrap-3-blaze
 accounts-google
 service-configuration
+standard-minifiers
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+iron:router
+ian:accounts-ui-bootstrap-3
